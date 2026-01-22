@@ -1,0 +1,12 @@
+[submodule "docmergecore"]
+	path = docmergecore
+	url = /project/DocMerge/docmergecore
+[submodule "docmerge-api"]
+	path = docmerge-api
+	url = /project/DocMerge/docmerge-api
+[submodule "docmerge-web"]
+	path = docmerge-web
+	url = /project/DocMerge/docmerge-web
+[submodule "docmerge-desktop"]
+	path = docmerge-desktop
+	url = /project/DocMerge/docmerge-desktop
